@@ -55,7 +55,7 @@ function show(response) {
   });
 }
 
-// exports[''] = start;
+exports[''] = start;
 exports.start = start;
 exports.upload = upload;
 exports.show = show;
